@@ -110,4 +110,4 @@ vrinda-store-dashboard/
 
 ## 📧 Contact
 
-If you have questions or suggestions, feel free to connect with me via [LinkedIn](www.linkedin.com/in/saidatta-aligety-2b20382b7) or [GitHub](https://github.com/Saidatta1101).
+If you have questions or suggestions, feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/saidatta-aligety-2b20382b7/) or [GitHub](https://github.com/Saidatta1101).
