@@ -60,7 +60,7 @@ The dataset contains transactional records with the following key columns:
 ## 📈 Dashboard Preview
 
 
-![alt text](<Vrinda Store Annual Report preview.png>)
+![alt text](<[Vrinda Store Annual Report preview.png](https://github.com/Saidatta1101/Vrinda-Store-Data-Analysis/blob/main/vrinda%20dashboard.png)>)
 
 ---
 
