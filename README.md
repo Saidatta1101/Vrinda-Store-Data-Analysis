@@ -1,5 +1,3 @@
-# Vrinda-Store-Data-Analysis
-
 # 🛍️ Vrinda Store Sales Data Analysis Dashboard
 
 ## 📊 Project Overview
